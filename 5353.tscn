@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://bpvhc6awsbv5m"]
+
+[node name="5353" type="Node2D"]
+
+[node name="MultiplayerSpawner" type="MultiplayerSpawner" parent="."]
